@@ -10,7 +10,6 @@ spec:
     path: helm-guestbook
     repoURL: https://github.com/balajiazuredevops/argocd-example-apps
     targetRevision: HEAD
-  sources: []
   project: default
   syncPolicy:
     automated:
